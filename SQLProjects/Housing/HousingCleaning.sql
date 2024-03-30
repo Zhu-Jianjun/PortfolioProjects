@@ -1,4 +1,3 @@
--- AlexTheAnglyst: Data cleaning in SQL Projects 3/4
 USE NashvilleHousing;
 
 SELECT * FROM nashvillehousing;
