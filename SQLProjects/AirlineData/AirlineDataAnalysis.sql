@@ -10,7 +10,6 @@
 USE AirlineDataAnalysis;
 
 ################################
-#https://www.kaggle.com/code/prashantverma13/airline-data-analysis-using-sql/notebook
 #Queries:
 #1 How many planes have more than 100 seats?
 SELECT * FROM seats;
